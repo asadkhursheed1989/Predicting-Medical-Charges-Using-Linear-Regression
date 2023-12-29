@@ -13,7 +13,8 @@ The dataset comprises several features:
 • charges: Individual medical costs billed by health insurance.
  
 Tasks: 
-Data Preprocessing:
+
+
 1. Handle missing or anomalous data.
 2. Convert categorical variables (sex, smoker, region) into numerical formats using 
 encoding techniques (e.g., one-hot encoding).
